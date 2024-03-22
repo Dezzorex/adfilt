@@ -1,0 +1,9 @@
+! 2023-10-11 https://www.storebrand.no
+@@||/gtm.js$script,domain=www.storebrand.no
+
+! 2023-12-18 https://www.komplett.no
+@@||stm.komplett.no/gtm.js$script,domain=www.komplett.no
+
+! 2024-03-22 https://www.sa.no
+||assets.acdn.no/pkg/bacchus/*/embeds/incentive/frontend/js/incentive.js$script,domain=www.sa.no
+
